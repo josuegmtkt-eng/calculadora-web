@@ -1,0 +1,37 @@
+body {
+    font-family: arial, sans-serif;
+    background-color: blanchedalmond;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contenedor {
+    background-color: bisque;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px opx 10px gray;
+}
+
+input{
+    width: 90%;
+    padding: 8px;
+    margin: 5px;
+}
+
+button{
+   button {
+   padding: 10px 15px;
+   margin: 3px;
+    }
+     
+      background-color: blue;
+      color: aliceblue;
+      border: nome;
+      cursor: pinter;
+}
+
+button :hover{
+    background-color: rgb(3, 3, 61);
+}
